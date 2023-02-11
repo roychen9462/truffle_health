@@ -1,23 +1,23 @@
 {
-  "firstName": "Jing-Wen",
-  "lastName": "Chen",
-  "address": "xxx, Los Angeles, CA",
-  "dateOfService": "02/10/2022",
-  "billAmount": "10"
+    "firstName": "Jing-Wen",
+    "lastName": "Chen",
+    "address": "xxx, Los Angeles, CA",
+    "dateOfService": "02/10/2022",
+    "billAmount": "10"
 }
 
 {
-  "firstName": "Michael",
-  "lastName": "Jordan",
-  "address": "nba st, Chicago, IL ",
-  "dateOfService": "4/1/1998",
-  "billAmount": "150"
+    "firstName": "Michael",
+    "lastName": "Jordan",
+    "address": "nba st, Chicago, IL ",
+    "dateOfService": "4/1/1998",
+    "billAmount": "150"
 }
 
 {
-  "firstName": "Bill",
-  "lastName": "Gates",
-  "address": "1010 microsoft blvd, Bellvue, WA",
-  "dateOfService": "1/1/2023",
-  "billAmount": "300"
+    "firstName": "Bill",
+    "lastName": "Gates",
+    "address": "1010 microsoft blvd, Bellvue, WA",
+    "dateOfService": "1/1/2023",
+    "billAmount": "300"
 }
