@@ -32,3 +32,7 @@ After sending a GET request to "/" route of server, you will get a response with
 Receiving a POST request with form data in the body, the data would be collected and store in database.
 
 Form body: firstName, lastName, address, dateOfService, billAmount
+
+### Demo Video
+
+[YouTube](https://www.youtube.com/watch?v=LiWxCjA4YW0)
